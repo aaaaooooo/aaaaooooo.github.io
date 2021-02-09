@@ -34,7 +34,7 @@ let clickChangeFruit = false;
 let adLink = 'mqqwpa://im/chat?chat_type=wpa&uin=2354132225&version=1&src_type=web&web_src=oicqzone.com';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大东理';
+document.getElementsByTagName("title")[0].innerText = '合成大祝福';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
